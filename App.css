@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    padding: 20px;
+}
+
+.motor{
+    margin-left: 30px;
+}
+
+.motorr{
+    width: 500px;
+    margin-left: 100px;
+}
+
+
+.input2{
+    width: 500px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.search{
+    color: white;
+    background-color: black;
+}
+
+.show{
+    display: flex;
+    justify-content: space-evenly;
+}
